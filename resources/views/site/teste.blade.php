@@ -1,0 +1,1 @@
+<h1>{{$nome}} é fã de Madoka há aproximadamente {{$idade}} ano(s);</h1>
